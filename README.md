@@ -1,4 +1,4 @@
-# 🐾 Animal Recognition Model
+# 🐾 WildScan - Animal Recognition Model
 
 This project uses **deep learning** to recognize animals in images using a **pre-trained ResNet-50 model**. It takes an image as input and predicts the animal's name using **PyTorch** and **Torchvision**.
 
